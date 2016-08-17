@@ -1,7 +1,7 @@
 # Notification Tutorial: Basics (2016)
 So zeigt ihr in Android eine (Heads-Up) Benachrichtigung in der Statusleiste an, welche man sogar ausklappen kann, um den gesamten Text zu sehen.
 
-- <a href="" target="_blank">Tutorial auf YouTube</a>
+- <a href="https://youtu.be/jUmQR7OZ3_Q" target="_blank">Tutorial auf YouTube</a>
 
 ##Wichtige Dateien
 - [NotificationDisplayService.java](/app/src/main/java/de/derandroidpro/notificationtutorial2016/NotificationDisplayService.java)
